@@ -15,7 +15,7 @@ st.title("🏠 Prediksi Harga Rumah")
 st.caption("Dibuat menggunakan Algoritma Decision Tree Regressor")
 
 # Tampilkan Performa Model Secara Dinamis
-st.subheader("Performa Model Saat Ini")
+st.subheader("Performa Model")
 col1, col2 = st.columns(2)
 
 with col1:
